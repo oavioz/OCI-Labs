@@ -1,6 +1,6 @@
 ![](common/images/customer.logo2.png)
 ---
-# Oracle OCI Cloud Labs Overview page #
+# Welcome to Oracle OCI Cloud Labs #
 
 ## Introduction ##
 
